@@ -1,0 +1,12 @@
+{
+    "orgName": "Churn Data Scratch Org",
+    "description": "churnscratchorg",
+    "template": "0TT3i000003eyq9",
+    "settings": {
+        "orgPreferenceSettings": {
+            "s1DesktopEnabled": true,
+            "s1EncryptedStoragePref2": false,
+            "selfSetPasswordInApi": true
+      }
+    }
+}
